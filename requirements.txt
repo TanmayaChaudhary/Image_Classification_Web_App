@@ -1,0 +1,10 @@
+uuid
+urllib
+pillow
+tensorflow==2.8.0
+tensorflow_hub==0.8.0
+keras==2.8.0
+flask==2.2.2
+numpy
+pandas
+json
