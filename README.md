@@ -48,11 +48,9 @@ Now children can easily see images quickly & learn their name in a more fun way.
 
 <br/>
 
-### Web Ap
+### Web App Demo:
 
 https://user-images.githubusercontent.com/40027119/200316569-17be70c9-a6a0-42c8-8a36-009b12a08720.mp4
-
-p Demo:
 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Business Impact: <img src = "https://media2.giphy.com/media/3OsFzorSZSUZcvo6UC/giphy.gif?cid=ecf05e47sjg7d63iong5jbzedhgn4btt0fekifdb0xv486im&rid=giphy.gif&ct=g" width="50px" height="50px">
